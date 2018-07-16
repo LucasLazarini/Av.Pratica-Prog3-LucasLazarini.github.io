@@ -1,0 +1,15 @@
+#areaExibicao{
+  position: absolute;
+  left: 40%;
+  top: 45%;
+}
+#areaBusca{
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  width: 30%;
+  height: 30%;
+}
+#tabela{
+  display: none;
+}
